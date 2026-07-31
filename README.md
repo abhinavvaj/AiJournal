@@ -16,7 +16,7 @@ MindMate is a full-stack mental wellness application designed to help users trac
 
 
 
-**📖 Repository:** [https://github.com/reenagupta-tech/MindMate](https://github.com/reenagupta-tech/MindMate)
+**📖 Repository:** [https://github.com/abhinavvaj/AiJournal](https://github.com/abhinavvaj/AiJournal)
 
 ---
 
@@ -164,10 +164,6 @@ Open your browser at:
 
 
 
-<div align="center">
-  <p>Made with ❤️ by <a href="https://github.com/reenagupta-tech">reenagupta-tech</a></p>
-
-</div>
 
 
 
