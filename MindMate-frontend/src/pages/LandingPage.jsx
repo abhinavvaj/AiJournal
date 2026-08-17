@@ -308,7 +308,7 @@ const LandingPage = () => {
       <p className="text-slate-400 mt-2">
         A product by{" "}
         <a
-          href="https://www.linkedin.com/in/avneetkaur025"
+          href="https://www.linkedin.com/in/abhinav-vajpayee-dtu/"
           className="text-blue-400 hover:underline"
           target="_blank"
           rel="noopener noreferrer"
@@ -318,7 +318,7 @@ const LandingPage = () => {
       </p>
       <div className="flex justify-center md:justify-start space-x-4 text-xl text-blue-400 mt-3">
         <a
-          href="https://www.linkedin.com/in/reena-gupta-9bbb972a6"
+          href="https://www.linkedin.com/in/abhinav-vajpayee-dtu/"
           target="_blank"
           rel="noopener noreferrer"
           aria-label="LinkedIn"
@@ -326,7 +326,7 @@ const LandingPage = () => {
           <FaLinkedin />
         </a>
         <a
-          href="https://github.com/reenagupta-tech"
+          href="https://github.com/abhinavvaj"
           target="_blank"
           rel="noopener noreferrer"
           aria-label="GitHub"
