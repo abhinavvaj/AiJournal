@@ -313,7 +313,7 @@ const LandingPage = () => {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Reena Gupta
+          Abhinav Vajpayee
         </a>
       </p>
       <div className="flex justify-center md:justify-start space-x-4 text-xl text-blue-400 mt-3">
